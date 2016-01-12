@@ -1,0 +1,41 @@
+[
+	{
+		"value" : "cat1",
+		"label" : "Code Error : Any Other"
+	},
+
+	{
+		"value" : "cat2",
+		"label" : "Code Error : BLINE after Annul"
+	},
+
+	{
+		"value" : "cat3",
+		"label" : "INFRA : INFRA Update"
+	},
+
+	{
+		"value" : "cat4",
+		"label" : "INFRA : INFRA Move"
+	},
+
+	{
+		"value" : "cat5",
+		"label" : "labelbase Issue : Issue 1"
+	},
+
+	{
+		"value" : "cat6",
+		"label" : "labelbase Issue : Issue 2"
+	},
+
+	{
+		"value" : "cat7",
+		"label" : "Wrongly Reported : No Issue"
+	},
+
+	{
+		"value" : "cat8",
+		"label" : "Wrongly Reported : User Mistake"
+	}
+]
